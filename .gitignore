@@ -1,0 +1,27 @@
+# deepcode
+.dccache
+
+# nodejs
+node_modules
+
+# yarn
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# parceljs
+.parcel-cache
+
+# vscode user-specific settings
+.vscode
+
+# misc
+preview-link.txt
+dist/
+
+# temp
+.github/share.json
